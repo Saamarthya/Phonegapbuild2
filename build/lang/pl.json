@@ -367,6 +367,8 @@
     "mm.user.roles": "Role",
     "mm.user.student": "Student",
     "mm.user.webpage": "Strona WWW",
+    "mma.calendar.noevents": "Brak zdarzeń",
+    "mma.calendar.notifications": "Powiadomienia",
     "mma.coursecompletion.complete": "Pełna wersja",
     "mma.coursecompletion.completed": "Ukończony",
     "mma.coursecompletion.coursecompletion": "Ukończenie kursu",
@@ -459,7 +461,6 @@
     "mma.mod_choice.userchoosethisoption": "Użytkownicy, którzy wybrali poszczególne opcje.",
     "mma.mod_choice.yourselection": "Twój wybór",
     "mma.mod_folder.emptyfilelist": "Brak plików do wyświetlenia",
-    "mma.mod_imscp.deploymenterror": "Błąd pakietu treści!",
     "mma.mod_forum.addanewdiscussion": "Dodaj nowy temat dyskusji",
     "mma.mod_forum.cannotadddiscussion": "Musisz być członkiem grupy aby dodać dyskusję do tego forum",
     "mma.mod_forum.cannotadddiscussionall": "Nie masz uprawnień, aby dodać nową dyskusję dla wszystkich uczestników.",
@@ -474,6 +475,7 @@
     "mma.mod_forum.re": "Odp:",
     "mma.mod_forum.reply": "Odpowiedz",
     "mma.mod_forum.subject": "Temat wiadomości",
+    "mma.mod_imscp.deploymenterror": "Błąd pakietu treści!",
     "mma.mod_label.label": "Etykieta",
     "mma.mod_survey.clicktocontinue": "Kliknij tutaj aby kontynuować",
     "mma.mod_survey.ifoundthat": "Stwierdziłem, że",
@@ -490,7 +492,5 @@
     "mma.notes.sitenotes": "Notatki strony głównej",
     "mma.notifications.notifications": "Powiadomienia",
     "mma.notifications.therearentnotificationsyet": "Brak powiadomień",
-    "mma.participants.participants": "Uczestnicy",
-    "mma.calendar.noevents": "Brak zdarzeń",
-    "mma.calendar.notifications": "Powiadomienia"
+    "mma.participants.participants": "Uczestnicy"
 }

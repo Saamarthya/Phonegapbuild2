@@ -659,6 +659,10 @@
     "mma.mod_imscp.showmoduledescription": "Toon beschrijving",
     "mma.mod_label.label": "Label",
     "mma.mod_label.taptoview": "Tik om label te zien.",
+    "mma.mod_lti.errorgetlti": "Fout bij het ophalen van moduledata.",
+    "mma.mod_lti.errorinvalidlaunchurl": "De start-URL is niet geldig",
+    "mma.mod_lti.launch_url": "Start-URL",
+    "mma.mod_lti.launchactivity": "Start de activiteit",
     "mma.mod_page.errorwhileloadingthepage": "Fout bij het laden van de pagina-inhoud.",
     "mma.mod_resource.errorwhileloadingthecontent": "Fout bij het laden van de inhoud.",
     "mma.mod_resource.openthefile": "Open het bestand",
@@ -686,9 +690,5 @@
     "mma.notifications.notifications": "Meldingen",
     "mma.notifications.therearentnotificationsyet": "Er zijn geen meldingen",
     "mma.participants.noparticipants": "Geen deelnemers gevonden in deze cursus",
-    "mma.participants.participants": "Deelnemers",
-    "mma.mod_lti.errorgetlti": "Fout bij het ophalen van moduledata.",
-    "mma.mod_lti.errorinvalidlaunchurl": "De start-URL is niet geldig",
-    "mma.mod_lti.launch_url": "Start-URL",
-    "mma.mod_lti.launchactivity": "Start de activiteit"
+    "mma.participants.participants": "Deelnemers"
 }

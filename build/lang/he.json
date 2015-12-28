@@ -590,8 +590,6 @@
     "mma.mod_choice.userchoosethisoption": "משתמשים שבחרו אפשרות זו",
     "mma.mod_choice.yourselection": "בחירתך",
     "mma.mod_folder.emptyfilelist": "אין קבצים להציג.",
-    "mma.mod_imscp.deploymenterror": "שגיאה בחבילת התוכן!",
-    "mma.mod_imscp.showmoduledescription": "הצגת תיאור",
     "mma.mod_forum.addanewdiscussion": "הוספת נושא לדיון חדש",
     "mma.mod_forum.cannotadddiscussion": "בכדי להוסיף דיונים בפורום זה, נדרש רישום לקבוצה.",
     "mma.mod_forum.cannotadddiscussionall": "אין לך הרשאה להוסיף נושא דיון חדש לכל המשתתפים.",
@@ -611,10 +609,13 @@
     "mma.mod_forum.re": "תשובה ל:",
     "mma.mod_forum.reply": "תגובה",
     "mma.mod_forum.subject": "נושא",
+    "mma.mod_imscp.deploymenterror": "שגיאה בחבילת התוכן!",
+    "mma.mod_imscp.showmoduledescription": "הצגת תיאור",
     "mma.mod_label.label": "תווית",
     "mma.mod_label.taptoview": "הקליקו לצפיה בתווית.",
     "mma.mod_lti.errorgetlti": "שגיאה בטעינת מידע המודול.",
     "mma.mod_lti.launch_url": "הצגת קישור",
+    "mma.mod_page.errorwhileloadingthepage": "שגיאה בזמן טעינת תוכן הדף.",
     "mma.mod_resource.errorwhileloadingthecontent": "שגיאה בזמן טעינת התוכן.",
     "mma.mod_resource.openthefile": "הצגת הקובץ",
     "mma.mod_survey.cannotsubmitsurvey": "מתנצלים, היתה בעיה בהגשת הסקר שלך. אנא נסה שוב.",
@@ -640,6 +641,5 @@
     "mma.notifications.errorgetnotifications": "שגיאה בטעינת התראות",
     "mma.notifications.notifications": "התראות",
     "mma.notifications.therearentnotificationsyet": "אין התראות",
-    "mma.participants.participants": "משתתפים",
-    "mma.mod_page.errorwhileloadingthepage": "שגיאה בזמן טעינת תוכן הדף."
+    "mma.participants.participants": "משתתפים"
 }

@@ -457,7 +457,6 @@
     "mma.coursecompletion.requiredcriteria": "Criteri requerit",
     "mma.coursecompletion.status": "Estat",
     "mma.coursecompletion.viewcoursereport": "Visualitza l'informe del curs",
-    "mma.frontpage.sitehome": "Pàgina principal",
     "mma.files.audio": "Àudio",
     "mma.files.camera": "Càmera",
     "mma.files.downloading": "S'està descarregant",
@@ -482,6 +481,7 @@
     "mma.files.uploadfiles": "Penja fitxers",
     "mma.files.uploading": "S'està penjant",
     "mma.files.video": "Vídeo",
+    "mma.frontpage.sitehome": "Pàgina principal",
     "mma.grades.average": "Mitjana",
     "mma.grades.feedback": "Retroacció",
     "mma.grades.grade": "Qualificació",
@@ -568,8 +568,10 @@
     "mma.mod_forum.reply": "Contesta",
     "mma.mod_forum.subject": "Assumpte del missatge",
     "mma.mod_imscp.deploymenterror": "Error en el contingut del paquet!",
-    "mma.mod_page.errorwhileloadingthepage": "S'ha produït un error carregant el contingut de la pàgina.",
     "mma.mod_label.label": "Etiqueta",
+    "mma.mod_page.errorwhileloadingthepage": "S'ha produït un error carregant el contingut de la pàgina.",
+    "mma.mod_resource.errorwhileloadingthecontent": "S'ha produït un error carregant el contingut.",
+    "mma.mod_resource.openthefile": "Obre el fitxer",
     "mma.mod_survey.clicktocontinue": "Fes clic aquí per a continuar",
     "mma.mod_survey.ifoundthat": "Trobo que",
     "mma.mod_survey.ipreferthat": "Prefereixo que",
@@ -587,7 +589,5 @@
     "mma.notifications.errorgetnotifications": "S'ha produït un error carregant les notificacions",
     "mma.notifications.notifications": "Notificacions",
     "mma.notifications.therearentnotificationsyet": "No hi ha notificacions",
-    "mma.participants.participants": "Participants",
-    "mma.mod_resource.errorwhileloadingthecontent": "S'ha produït un error carregant el contingut.",
-    "mma.mod_resource.openthefile": "Obre el fitxer"
+    "mma.participants.participants": "Participants"
 }
